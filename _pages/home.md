@@ -1,10 +1,11 @@
 ---
-ID: 8
+ID: 10
 post_title: Home
-author: changying cui
+author: admin
 post_excerpt: ""
 layout: page
-permalink: http://3.25.192.104/home/
+permalink: >
+  https://ietest0017.000webhostapp.com/home
 published: true
 post_date: 2020-08-23 23:46:16
 ---
