@@ -9,7 +9,10 @@ published: true
 post_date: 2020-08-23 23:48:02
 ---
 <!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:shortcode -->
-test
-<!-- /wp:shortcode --></div></div>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"></div></div>
 <!-- /wp:group -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>/code
+</code></pre>
+<!-- /wp:code -->
