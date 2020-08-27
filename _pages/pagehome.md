@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: Pagehome
+post_title: Home
 author: changying cui
 post_excerpt: ""
 layout: page
