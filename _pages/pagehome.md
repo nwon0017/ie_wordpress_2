@@ -13,7 +13,3 @@ post_date: 2020-08-26 14:42:08
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
