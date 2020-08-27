@@ -4,7 +4,7 @@ post_title: Hello world!
 author: changying cui
 post_excerpt: ""
 layout: post
-permalink: http://localhost/testsite2/hello-world/
+permalink: http://h2ocap.ml/hello-world/
 published: true
 post_date: 2020-08-12 17:04:24
 ---
