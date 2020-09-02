@@ -1,6 +1,6 @@
 ---
 ID: 436
-post_title: Error 404
+post_title: 404 Error Page
 author: changying cui
 post_excerpt: ""
 layout: page
