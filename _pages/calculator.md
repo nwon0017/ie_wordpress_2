@@ -4,7 +4,7 @@ post_title: Calculator
 author: changying cui
 post_excerpt: ""
 layout: page
-permalink: https://www.h2ocap.ml/calculator/
+permalink: http://www.h2ocap.ml/calculator/
 published: true
 post_date: 2020-08-23 23:48:02
 ---
