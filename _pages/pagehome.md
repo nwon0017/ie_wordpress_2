@@ -8,10 +8,10 @@ permalink: http://www.h2ocap.ml/
 published: true
 post_date: 2020-08-26 14:42:08
 ---
-<!-- wp:paragraph -->
+<figure><a href="http://www.h2ocap.ml/calculator/"><img width="2560" height="2560" src="https://www.h2ocap.ml/wp-content/uploads/2020/08/3133-scaled.jpg" alt="" loading="lazy" srcset="https://www.h2ocap.ml/wp-content/uploads/2020/08/3133-scaled.jpg 2560w, https://www.h2ocap.ml/wp-content/uploads/2020/08/3133-300x300.jpg 300w, https://www.h2ocap.ml/wp-content/uploads/2020/08/3133-1024x1024.jpg 1024w, https://www.h2ocap.ml/wp-content/uploads/2020/08/3133-150x150.jpg 150w, https://www.h2ocap.ml/wp-content/uploads/2020/08/3133-768x768.jpg 768w, https://www.h2ocap.ml/wp-content/uploads/2020/08/3133-1536x1536.jpg 1536w, https://www.h2ocap.ml/wp-content/uploads/2020/08/3133-2048x2048.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></figure><h3><a href="http://www.h2ocap.ml/calculator/">Calculator</a></h3><p>Save on your bills</p>		
+		<!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
-
 <p><!--themify_builder_static--></p>
 <h2 style="text-align: center;"> </h2>
 <h2 style="text-align: center;"><strong>Help Us Reduce </strong><strong>Our Impact On </strong></h2>
