@@ -4,7 +4,7 @@ post_title: Home
 author: changying cui
 post_excerpt: ""
 layout: page
-permalink: http://www.h2ocap.ml/
+permalink: https://www.h2ocap.ml/
 published: true
 post_date: 2020-08-26 14:42:08
 ---
