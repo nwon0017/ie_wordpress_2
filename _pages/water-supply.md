@@ -8,9 +8,11 @@ permalink: http://localhost/ie_test3/water-supply/
 published: true
 post_date: 2020-09-10 11:50:46
 ---
-<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
-<select name="state">
-  <option value="AL">Alabama</option>
-  <option value="KL">Kuala Lumpur</option>
-  <option value="WY">Wyoming</option>
-</select>
+<select id="mySelect">
+   <option>SECTION 1</option>
+   <option>SECTION 2</option>
+   <option>SECTION 3</option>
+</select>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+			<h2>Add Your Heading Text Here</h2>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
