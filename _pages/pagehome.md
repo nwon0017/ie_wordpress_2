@@ -8,7 +8,7 @@ permalink: http://www.h2ocap.ml/
 published: true
 post_date: 2020-08-26 14:42:08
 ---
-[smartslider3 slider="3"]		
+[smartslider3 slider="4"]		
 			<h2>OUR AIM</h2>		
 		<h6>To help young adults in saving money on their water utility expense. In turn, educating the community on the region's water source and water management so that there is enough resources left for generations to come.</h6>		
 			<h2>Some of our services</h2>		
