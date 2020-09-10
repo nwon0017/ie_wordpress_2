@@ -13,7 +13,4 @@ post_date: 2020-09-10 11:50:46
   <option value="AL">Alabama</option>
   <option value="KL">Kuala Lumpur</option>
   <option value="WY">Wyoming</option>
-</select>		
-			$(document).ready(function() {
-    $('.js-example-basic-single').select2();
-});
+</select>
