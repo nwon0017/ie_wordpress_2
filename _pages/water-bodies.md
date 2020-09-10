@@ -4,7 +4,7 @@ post_title: Our Water Bodies
 author: Nicholas Wong
 post_excerpt: ""
 layout: page
-permalink: http://localhost/ie_test3/elementor-736/
+permalink: http://localhost/ie_test3/water-bodies/
 published: true
 post_date: 2020-09-10 07:30:36
 ---
