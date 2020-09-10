@@ -16,3 +16,10 @@ post_date: 2020-09-10 07:30:36
 				<img src="http://localhost/ie_test3/wp-content/plugins/essential-addons-for-elementor-lite//assets/front-end/img/flexia-preview.jpg" data-lazy-src="http://localhost/ie_test3/wp-content/plugins/essential-addons-for-elementor-lite//assets/front-end/img/flexia-preview.jpg" alt=""><h5>Gallery Item Name</h5><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, provident.</p>
 				<img src="http://localhost/ie_test3/wp-content/plugins/essential-addons-for-elementor-lite//assets/front-end/img/flexia-preview.jpg" data-lazy-src="http://localhost/ie_test3/wp-content/plugins/essential-addons-for-elementor-lite//assets/front-end/img/flexia-preview.jpg" alt=""><h5>Gallery Item Name</h5><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, provident.</p>
 				<img src="http://localhost/ie_test3/wp-content/plugins/essential-addons-for-elementor-lite//assets/front-end/img/flexia-preview.jpg" data-lazy-src="http://localhost/ie_test3/wp-content/plugins/essential-addons-for-elementor-lite//assets/front-end/img/flexia-preview.jpg" alt=""><h5>Gallery Item Name</h5><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, provident.</p>
+		<p>Find out how water from these water bodies are supplied to your household.</p>		
+			<a href="#" role="button">
+						Go Back
+					</a>
+			<a href="#" role="button">
+						To Supply
+					</a>
