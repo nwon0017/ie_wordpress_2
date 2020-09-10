@@ -4,11 +4,11 @@ post_title: Calculator
 author: changying cui
 post_excerpt: ""
 layout: page
-permalink: http://www.h2ocap.ml/calculator/
+permalink: http://localhost:8888/h2o1/calculator/
 published: true
 post_date: 2020-08-23 23:48:02
 ---
-<img src="https://www.h2ocap.ml/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2020-09-07-at-7.19.04-PM-ov3yu91vtl3sx3s3ghvgugdw2igtstmei9kjzyv6zs.jpeg" title="WhatsApp Image 2020-09-07 at 7.19.04 PM" alt="WhatsApp Image 2020-09-07 at 7.19.04 PM">
+<img src="http://localhost:8888/h2o1/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2020-09-07-at-7.19.04-PM-ov3yu91vtl3sx3s3ghvgugdw2igtstmei9kjzyv6zs.jpeg" title="WhatsApp Image 2020-09-07 at 7.19.04 PM" alt="WhatsApp Image 2020-09-07 at 7.19.04 PM">
 
 <!--themify_builder_static-->
 <h1>Save on Your water Bills</h1>
